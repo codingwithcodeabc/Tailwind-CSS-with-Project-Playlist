@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.common_class {
+    @apply bg-white border-2 border-blue-500 rounded-xl p-4
+}
